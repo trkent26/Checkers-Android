@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "518575483207",
-    "firebase_url": "https://checkers-a1ef4.firebaseio.com",
-    "project_id": "checkers-a1ef4",
-    "storage_bucket": "checkers-a1ef4.appspot.com"
+    "project_number": /* confidential */,
+    "firebase_url": /* confidential */,
+    "project_id": /* confidential */,
+    "storage_bucket": /* confidential */
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:518575483207:android:bd364866c7841582884462",
+        "mobilesdk_app_id": /* confidential */,
         "android_client_info": {
           "package_name": "edu.uga.cs.checkers"
         }
       },
       "oauth_client": [
         {
-          "client_id": "518575483207-ljs7r0304l0kff5h911f6dmobg1measi.apps.googleusercontent.com",
+          "client_id": /* confidential */,
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBFMX5kosLDjkgBE6MJwQR_ds3plvBVeUU"
+          "current_key": /* confidential */
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "518575483207-ljs7r0304l0kff5h911f6dmobg1measi.apps.googleusercontent.com",
+              "client_id": /* confidential */,
               "client_type": 3
             }
           ]
